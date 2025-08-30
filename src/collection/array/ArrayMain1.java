@@ -30,6 +30,5 @@ public class ArrayMain1 {
                 break;
             }
         }
-
     }
 }
